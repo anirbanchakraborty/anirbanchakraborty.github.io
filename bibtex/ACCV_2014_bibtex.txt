@@ -1,0 +1,8 @@
+@incollection{chakraborty2014context,
+  title={Context-Aware Activity Forecasting},
+  author={Chakraborty, Anirban and Roy-Chowdhury, Amit K},
+  booktitle={Computer Vision--ACCV 2014},
+  pages={21--36},
+  year={2014},
+  publisher={Springer}
+}

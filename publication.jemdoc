@@ -1,0 +1,83 @@
+# jemdoc: menu{MENU}{publication.html}, nofooter
+= Publications
+
+~~~
+\C *Copyright notice*: The contributing authors include the documents contained in these directories/web pages as a means to ensure timely dissemination of scholarly and technical work on a non-commercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.
+~~~
+
+== 2016
+- *Person Re-identification Using Multiple Egocentric Views* (Accepted).\n
+A. Chakraborty, B. Mandal, J. Yuan, IEEE Transactions on Circuits and Systems for Video Technology.\n
+[papers/TCSVT_2016.pdf {{[Paper]}}]~~~[papers/TCSVT_2016_supp.pdf {{[Supplementary]}}]
+
+- *A Poisson Process Model for Activity Forecasting* (Accepted).\n
+T. Mahmud, M. Hasan, A. Chakraborty, A. K. Roy-Chowdhury, International Conference on Image Processing (ICIP), 2016.\n
+[ {{[Paper]}}]~~~[ {{[Cite]}}]
+
+- *Optimal Landmark Selection for Registration of 4D Confocal Image Stacks in Arabidopsis* (In press).\n
+K. Mkrtchyan, A. Chakraborty, A. K. Roy-Chowdhury, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2016.\n
+[papers/TCBB_2016.pdf {{[Paper]}}]~~~[bibtex/TCBB_2016_bibtex.txt {{[Cite]}}]
+
+- *Person Re-identification Using Multiple First-Person-Views on Wearable Devices*.\n
+A. Chakraborty, B. Mandal, H. K. Galoogahi, Winter Conference on Applications of Computer Vision (WACV), 2016.\n
+[papers/WACV_2016.pdf {{[Paper]}}]~~~[papers/WACV_2016_supp.pdf {{[Supplementary]}}]~~~[bibtex/WACV_2016_bibtex.txt {{[Cite]}}]
+
+== 2015
+- *Network Consistent Data Association*.\n
+A. Chakraborty, A. Das, A. K. Roy-Chowdhury, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2016.\n
+[papers/PAMI-2015.pdf  {{[Paper]}}]~~~[papers/supp-PAMI-2015.pdf {{[Supplementary]}}]~~~[bibtex/PAMI_2015_bibtex.txt {{[Cite]}}]~~~[Codes/NCDA-Distributables.zip {{[Code]}}]
+
+- *A Context-Aware Delayed Agglomeration Framework for Electron Microscopy Segmentation*.\n
+T. Parag, A. Chakraborty, S. Plaza, L. Scheffer, PLoS ONE, 2015.\n
+[http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125825 {{[Paper]}}]~~~[bibtex/PLOS_2015_bibtex.txt {{[Cite]}}]
+
+- *Context Aware Spatio-temporal Cell Tracking In Densely Packed Multilayer Tissues*.\n
+A. Chakraborty, A. K. Roy-Chowdhury, Medical Image Analysis, 2015.\n
+[papers/MEDIA_2014.pdf {{[Paper]}}]~~~[papers/MedIA-Supplementary.pdf {{[Supplementary]}}]~~~[bibtex/MEDIA_2015_bibtex.txt {{[Cite]}}]~~~[Codes/Context-CRF-Tracker.zip {{[Code]}}]
+
+- *Automatic Image Analysis Pipeline for Studying Growth in Arabidopsis* (Book chapter).\n
+K. Mkrtchyan, A. Chakraborty, M. Liu, A. Roy-Chowdhury, Video Bioinformatics, Springer International Publishing, 2015.\n
+[http://link.springer.com/chapter/10.1007/978-3-319-23724-4_12 {{[Chapter]}}]~~~[bibtex/CHAPTER_VIDBIO_2015_bibtex.txt {{[Cite]}}]
+
+== 2014
+- *Consistent Re-identification in a Camera Network*.\n
+A. Das\*, A. Chakraborty\*, A. K. Roy-Chowdhury, European Conference on Computer Vision (ECCV), 2014 (\*Jointly first-authored).\n
+[papers/ECCV_2014.pdf {{[Paper]}}]~~~[papers/ECCV2014_supp.pdf {{[Supplementary]}}]~~~[bibtex/ECCV_2014_bibtex.txt {{[Cite]}}]~~~[https://github.com/dasabir/NCR_Code {{[Code]}}]
+
+- *Context-Aware Activity Forecasting*.\n
+A. Chakraborty, A. K. Roy-Chowdhury, Asian Conference on Computer Vision (ACCV).\n
+[papers/ACCV_2014.pdf {{[Paper]}}]~~~[bibtex/ACCV_2014_bibtex.txt {{[Cite]}}]
+
+- *Graph-based Active Learning of Agglomeration (GALA): a Python library to segment 2D and 3D neuroimages*.\n
+J. Nunez-Iglesias, R. Kennedy, S. M. Plaza, A. Chakraborty, W. T. Katz, Frontiers in Neuroinformatics, 2014.\n
+[papers/Frontiers_2014.pdf {{[Paper]}}]~~~[bibtex/FRONTIERS_2014_bibtex.txt {{[Cite]}}]~~~[https://github.com/janelia-flyem/gala {{[Code]}}]
+
+- *A Conditional Random Field Model For Tracking In Densely Packed Cell Structures*.\n
+ A. Chakraborty, A. K. Roy-Chowdhury, IEEE International Conference on Image Processing (ICIP), 2014.\n
+[papers/ICIP_2014.pdf {{[Paper]}}]~~~[bibtex/ICIP_2014_bibtex.txt {{[Cite]}}]
+
+== 2010-2013
+- *Adaptive Geometric Tessellation for 3D Reconstruction of Anisotropically Developing Cells in Multilayer Tissues from Sparse Volumetric Microscopy Images*.\n
+A. Chakraborty, M. M. Perales, G. V. Reddy, A. K. Roy-Chowdhury, PLoS ONE, 2013.\n
+[http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067202 {{[Paper]}}]~~~[papers/PLOS_2013_supp.zip {{[Supplementary]}}]~~~[bibtex/PLOS_2013_bibtex.txt {{[Cite]}}]~~~[Codes/Cell_res_3D_Reconstruction.zip {{[Code]}}]
+
+- *Automated registration of live imaging stacks of Arabidopsis*.\n
+K. Mkrtchyan, A. Chakraborty, A. K. Roy-Chowdhury, International Symposium on Biomedical Imaging (ISBI), 2013.\n
+[papers/ICIP_2013.pdf {{[Paper]}}]~~~[bibtex/ISBI_2013_bibtex.txt {{[Cite]}}]
+
+- *Computational Tools For Quantitative Analysis of Cell Growth Patterns And Morphogenesis in Actively Developing Plant Stem Cell Niches* (Book chapter).\n
+A. Chakraborty, R. Yadav, M. Liu, M. Tataw, K. Mkrtchyan, A.K.  Roy Chowdhury, G. V. Reddy, Plant Signalling Networks: Methods and Protocols, Springer Protocols 2012.\n
+[http://link.springer.com/protocol/10.1007/978-1-61779-809-2_18 {{[Chapter]}}]~~~[bibtex/CHAPTER_PSN_2012_bibtex.txt {{[Cite]}}]
+
+- *Adaptive Cell Segmentation and Tracking for Volumetric Confocal Microscopy Images of A Developing Plant Meristem*.\n
+M. Liu\*, A. Chakraborty\*, D. Singh, M. Gopi, R. Yadav, G.V. Reddy, A. K.  Roy-Chowdhury, Molecular Plant, 2011 (\*Jointly first-authored).\n
+[papers/MolPlant_2011.pdf {{[Paper]}}]~~~[bibtex/MOLPLANT_2011_bibtex.txt {{[Cite]}}]
+
+- *Cell Resolution 3D Reconstruction of Developing Multilayer Tissues from Sparsely Sampled Volumetric Microscopy Images*.\n
+A. Chakraborty, R. Yadav, G. V.  Reddy, A. K. Roy-Chowdhury, International Conference on Bioinformatics and Biomedicine (BIBM), 2011.\n
+[papers/BIBM_2011.pdf {{[Paper]}}]~~~[bibtex/BIBM_2011_bibtex.txt {{[Cite]}}]
+
+- *Cell Volume Estimation From A Sparse Collection of Noisy Confocal Image Slices*.\n
+A. Chakraborty, M. Liu, K. Mkrtchyan, G. V. Reddy, A. K. Roy-Chowdhury, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), 2010.\n
+[papers/ICVGIP_2010.pdf {{[Paper]}}]~~~[bibtex/ICVGIP_2010_bibtex.txt {{[Cite]}}]
+

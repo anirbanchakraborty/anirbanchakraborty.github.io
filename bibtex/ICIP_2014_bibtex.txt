@@ -1,0 +1,8 @@
+@inproceedings{chakraborty2014conditional,
+  title={A conditional random field model for tracking in densely packed cell structures},
+  author={Chakraborty, Anirban and Roy-Chowdhury, Amit},
+  booktitle={Image Processing (ICIP), 2014 IEEE International Conference on},
+  pages={451--455},
+  year={2014},
+  organization={IEEE}
+}

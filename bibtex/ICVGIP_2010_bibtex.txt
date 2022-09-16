@@ -1,0 +1,8 @@
+@inproceedings{chakraborty2010cell,
+  title={Cell volume estimation from a sparse collection of noisy confocal image slices},
+  author={Chakraborty, Anirban and Liu, Min and Mkrtchyan, Katya and Reddy, G Venugopala and Roy-Chowdhury, Amit},
+  booktitle={Proceedings of the Seventh Indian Conference on Computer Vision, Graphics and Image Processing},
+  pages={183--189},
+  year={2010},
+  organization={ACM}
+}

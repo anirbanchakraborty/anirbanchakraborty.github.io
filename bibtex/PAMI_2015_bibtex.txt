@@ -1,0 +1,12 @@
+@ARTICLE{7299668, 
+author={A. Chakraborty and A. Das and A. K. Roy-Chowdhury}, 
+journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+title={Network Consistent Data Association}, 
+year={2016}, 
+volume={38}, 
+number={9}, 
+pages={1859-1871}, 
+keywords={Accuracy;Cameras;Image segmentation;Linear programming;Optimization;Target tracking;Three-dimensional displays;Data association;integer program;network consistency;person re-identification;spatio-temporal cell tracking}, 
+doi={10.1109/TPAMI.2015.2491922}, 
+ISSN={0162-8828}, 
+month={Sept},}

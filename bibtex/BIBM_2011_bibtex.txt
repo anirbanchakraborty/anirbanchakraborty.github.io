@@ -1,0 +1,9 @@
+@INPROCEEDINGS{6120469, 
+author={A. Chakraborty and R. K. Yadav and G. V. Reddy and A. K. Roy-Chowdhury}, 
+booktitle={Bioinformatics and Biomedicine (BIBM), 2011 IEEE International Conference on}, 
+title={Cell Resolution 3D Reconstruction of Developing Multilayer Tissues from Sparsely Sampled Volumetric Microscopy Images}, 
+year={2011}, 
+pages={378-383}, 
+keywords={cellular biophysics;image reconstruction;image resolution;medical image processing;solid modelling;3D reconstruction method;3D shape model;Arabidopsis Thaliana plant;Shoot Apical Meristem cell;cell cluster reconstruction;cell growth statistics;cell resolution;developmental biology;image analysis;multilayer tissue development;plant meristem;shoot apical meristem;sparsely sampled volumetric microscopy image;Ellipsoids;Estimation;Image reconstruction;Image segmentation;Imaging;Shape;Three dimensional displays;Arabidopsis Thaliana;Cell Resolution 3D Reconstruction;Shoot Apical Meristem}, 
+doi={10.1109/BIBM.2011.123}, 
+month={Nov},}

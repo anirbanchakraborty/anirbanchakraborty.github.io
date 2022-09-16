@@ -1,0 +1,10 @@
+@INPROCEEDINGS{6556564, 
+author={K. Mkrtchyan and A. Chakraborty and A. K. Roy-Chowdhury}, 
+booktitle={2013 IEEE 10th International Symposium on Biomedical Imaging}, 
+title={Automated registration of live imaging stacks of Arabidopsis}, 
+year={2013}, 
+pages={672-675}, 
+keywords={biological techniques;biology computing;cellular biophysics;image registration;optical microscopy;Arabidopsis thaliana image registration;automated landmark-based registration method;cell behavior;cell division statistics;cell lineage statistics;cell registration;cell segmentation;cell tracking;computational platform;confocal laser scanning microscopy technique;local graph-based approach;morphogenesis dynamics;shoot apical meristem;tissue development;tracking method;Estimation;Image color analysis;Image segmentation;Microscopy;Mutual information;Registers;live imaging;registration;shoot apical meristem}, 
+doi={10.1109/ISBI.2013.6556564}, 
+ISSN={1945-7928}, 
+month={April},}

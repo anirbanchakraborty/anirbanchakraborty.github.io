@@ -1,0 +1,10 @@
+@article{liu2011adaptive,
+  title={Adaptive cell segmentation and tracking for volumetric confocal microscopy images of a developing plant meristem},
+  author={Liu, Min and Chakraborty, Anirban and Singh, Damanpreet and Yadav, Ram Kishor and Meenakshisundaram, Gopi and Reddy, G Venugopala and Roy-Chowdhury, Amit},
+  journal={Molecular plant},
+  volume={4},
+  number={5},
+  pages={922--931},
+  year={2011},
+  publisher={Elsevier}
+}

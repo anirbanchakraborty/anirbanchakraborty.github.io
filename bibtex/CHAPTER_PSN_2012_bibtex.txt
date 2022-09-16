@@ -1,0 +1,8 @@
+@incollection{chakraborty2012computational,
+  title={Computational tools for quantitative analysis of cell growth patterns and morphogenesis in actively developing plant stem cell niches},
+  author={Chakraborty, Anirban and Yadav, Ram Kishor and Liu, Min and Tataw, Moses and Mkrtchyan, Katya and Chowdhury, Amit Roy and Reddy, G Venugopala},
+  booktitle={Plant Signalling Networks},
+  pages={217--227},
+  year={2012},
+  publisher={Springer}
+}

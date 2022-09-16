@@ -1,0 +1,12 @@
+@ARTICLE{7403918, 
+author={K. Mkrtchyan and A. Chakraborty and A. Roy-Chowdhury}, 
+journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics}, 
+title={Optimal Landmark Selection for Registration of 4D Confocal Image Stacks in Arabidopsis}, 
+year={2016}, 
+volume={PP}, 
+number={99}, 
+pages={1-1}, 
+keywords={Biomedical optical imaging;Image analysis;Image registration;Image segmentation;Microscopy;Optical imaging;confocal laser scanning microscopy;image registration;live cell imaging;shoot apical meristem},
+doi={10.1109/TCBB.2016.2527655}, 
+ISSN={1545-5963}, 
+month={},}

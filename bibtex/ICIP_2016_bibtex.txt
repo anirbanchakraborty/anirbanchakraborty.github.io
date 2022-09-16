@@ -1,0 +1,8 @@
+@inproceedings{mahmud2016poisson,
+  title={A poisson process model for activity forecasting},
+  author={Mahmud, Tahmida and Hasan, Mahmudul and Chakraborty, Anirban and Roy-Chowdhury, Amit K},
+  booktitle={Image Processing (ICIP), 2016 IEEE International Conference on},
+  pages={3339--3343},
+  year={2016},
+  organization={IEEE}
+}

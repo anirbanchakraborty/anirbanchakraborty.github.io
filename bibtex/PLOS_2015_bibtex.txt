@@ -1,0 +1,14 @@
+@article{10.1371/journal.pone.0125825,
+    author = {Parag, Toufiq AND Chakraborty, Anirban AND Plaza, Stephen AND Scheffer, Louis},
+    journal = {PLoS ONE},
+    publisher = {Public Library of Science},
+    title = {A Context-Aware Delayed Agglomeration Framework for Electron Microscopy Segmentation},
+    year = {2015},
+    month = {05},
+    volume = {10},
+    url = {http://dx.doi.org/10.1371%2Fjournal.pone.0125825},
+    pages = {1-19},
+    abstract = {<p>Electron Microscopy (EM) image (or volume) segmentation has become significantly important in recent years as an instrument for connectomics. This paper proposes a novel agglomerative framework for EM segmentation. In particular, given an over-segmented image or volume, we propose a novel framework for accurately clustering regions of the same neuron. Unlike existing agglomerative methods, the proposed context-aware algorithm divides superpixels (over-segmented regions) of different biological entities into different subsets and agglomerates them separately. In addition, this paper describes a ?delayed? scheme for agglomerative clustering that postpones some of the merge decisions, pertaining to newly formed bodies, in order to generate a more confident boundary prediction. We report significant improvements attained by the proposed approach in segmentation accuracy over existing standard methods on 2D and 3D datasets.</p>},
+    number = {5},
+    doi = {10.1371/journal.pone.0125825}
+}

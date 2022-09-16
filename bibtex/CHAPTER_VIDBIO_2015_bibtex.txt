@@ -1,0 +1,8 @@
+@incollection{mkrtchyan2015automatic,
+  title={Automatic Image Analysis Pipeline for Studying Growth in Arabidopsis},
+  author={Mkrtchyan, Katya and Chakraborty, Anirban and Liu, Min and Roy-Chowdhury, Amit},
+  booktitle={Video Bioinformatics},
+  pages={215--236},
+  year={2015},
+  publisher={Springer}
+}

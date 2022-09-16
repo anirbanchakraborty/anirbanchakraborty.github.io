@@ -1,0 +1,14 @@
+@article{10.1371/journal.pone.0067202,
+    author = {Chakraborty, Anirban AND Perales, Mariano M. AND Reddy, G. Venugopala AND Roy-Chowdhury, Amit K.},
+    journal = {PLoS ONE},
+    publisher = {Public Library of Science},
+    title = {Adaptive Geometric Tessellation for 3D Reconstruction of Anisotropically Developing Cells in Multilayer Tissues from Sparse Volumetric Microscopy Images},
+    year = {2013},
+    month = {08},
+    volume = {8},
+    url = {http://dx.doi.org/10.1371%2Fjournal.pone.0067202},
+    pages = {1-14},
+    abstract = {<p>The need for quantification of cell growth patterns in a multilayer, multi-cellular tissue necessitates the development of a 3D reconstruction technique that can estimate 3D shapes and sizes of individual cells from Confocal Microscopy (CLSM) image slices. However, the current methods of 3D reconstruction using CLSM imaging require large number of image slices per cell. But, in case of <italic>Live Cell Imaging</italic> of an actively developing tissue, large depth resolution is not feasible in order to avoid damage to cells from prolonged exposure to laser radiation. In the present work, we have proposed an anisotropic Voronoi tessellation based 3D reconstruction framework for a tightly packed multilayer tissue with extreme z-sparsity (2?4 slices/cell) and wide range of cell shapes and sizes. The proposed method, named as the ?Adaptive Quadratic Voronoi Tessellation? (AQVT), is capable of handling both the sparsity problem and the non-uniformity in cell shapes by estimating the tessellation parameters for each cell from the sparse data-points on its boundaries. We have tested the proposed 3D reconstruction method on time-lapse CLSM image stacks of the Arabidopsis Shoot Apical Meristem (SAM) and have shown that the AQVT based reconstruction method can correctly estimate the 3D shapes of a large number of SAM cells.</p>},
+    number = {8},
+    doi = {10.1371/journal.pone.0067202}
+}

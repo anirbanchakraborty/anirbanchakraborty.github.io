@@ -1,0 +1,8 @@
+@incollection{das2014consistent,
+  title={Consistent re-identification in a camera network},
+  author={Das, Abir and Chakraborty, Anirban and Roy-Chowdhury, Amit K},
+  booktitle={Computer Vision--ECCV 2014},
+  pages={330--345},
+  year={2014},
+  publisher={Springer}
+}
