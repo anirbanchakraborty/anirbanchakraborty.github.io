@@ -28,39 +28,138 @@ I am interested in developing novel computer vision and machine learning algorit
 
 In the past, I have extensively worked on biological and medical image analysis problems (e.g., registration, cell segmentation, spatio-temporal cell tracking, cell and tissue resolution 3D reconstruction of confocal image stacks, analysis of clinical MR and CT images etc.). I am also interested in data-association problems on graphs and their applications to visual analytics tasks.
 
-== Some selected publications 
+== Journal Publications
 
-- G. K. Nayak, M. K. Reddy, V. Shaj, R. Venkatesh Babu, *A. Chakraborty*, "Zero Shot Knowledge
-Distillation in Deep Networks", /International Conference on Machine Learning (ICML)/, 2019.
+- Improving Domain Adaptation through Class Aware Frequency Transformation
 
-- G. K. Nayak, M. K. Reddy, S. Jain, *A. Chakraborty*, "Mining Data Impressions from Deep
-Models as Substitute for the Unavailable Training Data", /IEEE Transactions on Pattern Analysis
-and Machine Intelligence (T-PAMI)/, 2021.
+V. Kumar, H. Patil, R. Lal, *A. Chakraborty*
 
-- J. N. Kundu, S. Seth, V. Jampani, R. Mugalodi, R. V. Babu, *A. Chakraborty*, "Self-
-Supervised 3D Human Pose Estimation Via Part Guided Novel Image Synthesis", /Computer Vision and Pattern Recognition (CVPR)/, 2020.
-
-- A. Tripathi, R. R. Dani, A. Mishra, *A. Chakraborty*, "Sketch-Guided Object Localization in
-Natural Images", /European Conference on Computer Vision (ECCV)/, 2020.
-
-- A. Aggarwal, R. V. Babu, *A. Chakraborty*, "Text-based person search via attribute-aided matching", /Winter Conference on Applications of Computer Vision (WACV)/, 2020. 
-
-- A. K. Singh, A. Mishra, S. Shekhar, *A. Chakraborty*, "From Strings to Things: Knowledge-
-enabled VQA Model that can Read and Reason", /International Conference on Computer
-Vision (ICCV)/, 2019.
-
-- *A. Chakraborty*, A. Das, A. K. Roy-Chowdhury, "Network Consistent Data Association", /IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)/, 2016.
-
-- *A. Chakraborty*, A. K. Roy-Chowdhury, "Context Aware Spatio-temporal Cell Tracking In Densely Packed Multilayer Tissues", /Medical Image Analysis/, 2015.
-
-- A. Das, *A. Chakraborty*, A. K. Roy-Chowdhury,"Consistent Re-identification in a Camera Network", /European Conference on Computer Vision (ECCV)/, 2014.
+International Journal of Computer Vision (IJCV) [In Press]
 
 
-For the complete list of publications, please see the [http://visual-computing.in/publications {{Publication}}] page.
+
+- Multimodal Query-guided Object Localization
+
+A. Tripathi, R. R. Dani, A. Mishra, *A. Chakraborty*
+
+Multimedia Tools and Applications [In Press]
+
+
+
+- Mining Data Impressions from Deep Models as Substitute for the Unavailable Training Data
+
+G. K. Nayak, M. K. Reddy, S. Jain, *A. Chakraborty*
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (2022) [In press]
+
+[Paper]
+
+
+- EvAn: Neuromorphic Event-Based Sparse Anomaly Detection
+
+A. Lakshmi, *A. Chakraborty*, C. S. Thakur
+
+Frontiers in Neuroscience (2022) 15 (2021): 853.
+
+
+
+- Robust Gait Based Human Identification on Incomplete and Multi-view Sequences
+
+U. Shreemali, *A. Chakraborty*
+
+Multimedia Tools and Applications (2020) 80(7): 10141-10166.
+
+
+
+- PerSeg: Segmenting Salient Objects From Bag of Single Image Perturbations
+
+A. Majumder, R. Venkatesh Babu, *A. Chakraborty*
+
+Multimedia Tools and Applications (2020) 79(3): 2473-2493.
+
+
+
+- Operator-in-the-Loop Deep Sequential Multi-Camera Feature Fusion for Person Re-Identification
+
+K. L. Navaneet, R. K. Sarvadevabhatla, S. Shekhar, R. Venkatesh Babu, *Anirban Chakraborty*
+
+IEEE Transactions on Information Forensics & Security (2019) 15: 2375-2385
+
+
+
+- Neuromorphic vision: From sensors to eventbased algorithms
+
+A. Lakshmi, *A. Chakraborty*, C. S. Thakur
+
+Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery (2019) 9(4): p.e1310.
+
+
+
+- Person Re-identification Using Multiple Egocentric Views
+
+*A. Chakraborty*, B. Mandal, J. Yuan
+
+IEEE Transactions on Circuits and Systems for Video Technology (2017) 27(3):484-498
+
+
+
+- Optimal Landmark Selection for Registration of 4D Confocal Image Stacks in Arabidopsis
+
+K. Mkrtchyan, *A. Chakraborty*, A. K. Roy-Chowdhury
+
+IEEE/ ACM Transactions on Computational Biology and Bioinformatics (2017) 14(2):457-467
+
+
+
+- Network Consistent Data Association
+
+*A. Chakraborty*, A. Das, A. K. Roy-Chowdhury
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (2016) 38(9):1859-1871
+
+
+
+- Context Aware Spatio-temporal Cell Tracking In Densely Packed Multilayer Tissues
+
+*A. Chakraborty*, A. K. Roy-Chowdhury
+
+Medical Image Analysis (2015) 19(1):149-163
+
+
+
+- A Context-Aware Delayed Agglomeration Framework for Electron Microscopy Segmentation
+
+T. Parag, *A. Chakraborty*, S. Plaza, L. Scheffer
+
+PLoS ONE (2015) 10(5): e0125825
+
+
+
+- Graph-based Active Learning of Agglomeration (GALA): a Python library to segment 2D and 3D neuroimages
+
+J. Nunez-Iglesias, R. Kennedy, S. M. Plaza, *A. Chakraborty*, W. T. Katz
+
+Frontiers in Neuroinformatics (2014) 8(00034)
+
+
+
+- Adaptive Geometric Tessellation for 3D Reconstruction of Anisotropically Developing Cells in Multilayer Tissues from Sparse Volumetric Microscopy Images
+
+*A. Chakraborty*, M. M. Perales, G. V. Reddy, A. K. Roy-Chowdhury
+
+PLoS ONE (2013) 8(8): e67202
+
+
+
+- Adaptive Cell Segmentation and Tracking for Volumetric Confocal Microscopy Images of A Developing Plant Meristem
+
+M. Liu, *A. Chakraborty*, D. Singh, M. Gopi, R. Yadav, G.V. Reddy, A. K. Roy-Chowdhury (Jointly first authored)
+
+Molecular Plant (2011) 4(5): 922-931
 
 == Courses taught
 
-- Introduction to Data Science \[DS 215\] : Aug 2022
+- Introduction to Data Science \[DS 215\] : Aug 2022,~~Aug 2023
 
 - Data Analysis and Visualization \[DS 294\] : Jan 2022,~~Jan 2020,~~ Jan 2018
 
