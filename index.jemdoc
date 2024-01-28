@@ -20,7 +20,7 @@ I am an Assistant Professor in the Department of Computational and Data Sciences
 
 I am interested in developing novel computer vision and machine learning algorithms to solve visual analysis problems arising from diverse real-world applications. Majority of my current research can be categorized into three major thematic areas - 
 
-- *Data-efficient Deep Learning:* zero-shot\/few-shot knowledge distillation, continual learning, source-free\/unsupervised domain adaptation, data-free adversarial defense, privacy-preserving ML etc.
+- *Data-efficient & Privacy-preserving Deep Learning:* zero-shot\/few-shot knowledge distillation, continual learning, source-free\/unsupervised domain adaptation, data-free adversarial defense, federated learning etc.
 
 - *Cross-modal Computer Vision:* text-based image retrieval, sketch-guided localization, scene-graph generation, visual question answering etc.
 
