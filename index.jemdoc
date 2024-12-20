@@ -30,6 +30,18 @@ In the past, I have worked on biological and medical image analysis problems (e.
 
 == Journal Publications
 
+- Adaptive Self-Distillation for Minimizing Client Drift in Heterogeneous Federated Learning\n
+M. Yashwanth, G. K. Nayak, A. Singh, Y. Simmhan, *A. Chakraborty*\n
+Transactions on Machine Learning Research (TMLR) {{[Accepted]}}
+
+- CARL: Cost-optimized Online Container Placement on VMs using Adversarial Reinforcement Learning\n
+P. S. Vinayak, S. S. Mallick, J.  Lakshmi, *A. Chakraborty*, Y. Simmhan\n
+IEEE Transactions on Cloud Computing (TCC) {{[Accepted]}}
+
+- An Unsupervised Group Detection Method for Understanding Group Dynamics in Crowds\n
+N. Choubey, A. Verma, *A. Chakraborty*\n
+Physica A: Statistical Mechanics and its Applications 655 (2024): 130195
+
 - Robust Few-shot Learning Without Using any Adversarial Samples\n
 G. K. Nayak, R. Rawal, I. Khatri, *A. Chakraborty*\n
 IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2024 {{[In Press]}}
@@ -119,7 +131,7 @@ Molecular Plant (2011) 4(5): 922-931
 
 - Enhancing 3D Referential Grounding by Learning Coarse Spatial Relationships\n
 S. Joshi, A. Tripathi, V. Gopalakrishnan, *A. Chakraborty*\n
-International Conference on Pattern Recognition (ICPR), 2024 {{[Accepted]}}
+International Conference on Pattern Recognition (ICPR), 2024
 
 - Dynamic Data Selection for Efficient SSL via Coarse-to-Fine Refinement\n
 A. Tripathi, P. Shenoy, *A. Chakraborty*\n
