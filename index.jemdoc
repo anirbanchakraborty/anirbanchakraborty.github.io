@@ -30,6 +30,10 @@ In the past, I have worked on biological and medical image analysis problems (e.
 
 == Journal Publications
 
+- DAD++: Improved data-free test time adversarial defense\n
+G. K. Nayak, I. Khatri, S. Randive, R. Rawal, *A. Chakraborty*\n
+Neurocomputing {{[In press]}}
+
 - Adaptive Self-Distillation for Minimizing Client Drift in Heterogeneous Federated Learning\n
 M. Yashwanth, G. K. Nayak, A. Singh, Y. Simmhan, *A. Chakraborty*\n
 Transactions on Machine Learning Research (TMLR) {{[Accepted]}}
